@@ -1,6 +1,27 @@
+body{
+    background-color: #ecf0f1 !important;
+}
 
 #main-tg-nav a{
     text-decoration: none !important;
     color: white !important;
 }
 
+#react-icon{
+    color:#61DBFB
+}
+#html-icon{
+    color: #F06529
+}
+#css-icon{
+    color:#2965f1
+}
+#js-icon{
+    color:#f0db4f
+}
+#node-icon{
+    color:#68A063
+}
+#mdb-icon{
+    color:#2965f1
+}
